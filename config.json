@@ -1,0 +1,21 @@
+{
+  "code": "DIMA",
+  "title": "SMASH DIMA",
+  "school": "동아방송예대",
+  "fullName": "동아방송예술대학교",
+  "campusName": "동아방송예술대학교",
+  "tagline": "동아방송예대를 부셔 (시험기간 스트레스 해소)",
+  "description": "동아방송예술대학교를 3D로 부수고 지구 중심까지 파 내려가는 스트레스 해소 게임",
+  "ogAlt": "폭탄이 터지며 무너지는 동아방송예술대학교 3D 화면과 SMASH DIMA 제목",
+  "url": "https://hong-iron.github.io/SMASH-DIMA/",
+  "antipode": "우루과이 앞바다(남대서양)",
+  "osm": {
+    "type": "circle",
+    "id": "37.0585,127.3586,350"
+  },
+  "styles": {},
+  "support": "https://buymeacoffee.com/hongiron",
+  "supportKakao": "https://qr.kakaopay.com/FKcOJKyOy1f405462",
+  "hub": "https://hong-iron.github.io/SMASH/",
+  "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35"
+}
