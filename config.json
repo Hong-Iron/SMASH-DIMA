@@ -20,5 +20,38 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "기예관": {
+      "style": "brick",
+      "wall": "#9e6e5e",
+      "glass": "#3a4a55",
+      "frame": "#d4d6df"
+    },
+    "덕성관": {
+      "style": "brick",
+      "wall": "#9a6a5c",
+      "glass": "#3c4850",
+      "frame": "#b1b4b8"
+    },
+    "학생회관": {
+      "style": "brick",
+      "wall": "#a57561",
+      "glass": "#2f4552",
+      "frame": "#e3e6ec"
+    },
+    "대학 본부": {
+      "style": "stone",
+      "wall": "#e2e6ee",
+      "glass": "#2d404b",
+      "frame": "#a9afc0"
+    },
+    "대학본부": {
+      "style": "stone",
+      "wall": "#e2e6ee",
+      "glass": "#2d404b",
+      "frame": "#a9afc0"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
