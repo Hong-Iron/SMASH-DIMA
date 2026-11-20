@@ -1,0 +1,34 @@
+{
+ "region": "경기 안성시 삼죽면",
+ "nameEn": "Dong-ah Institute of Media and Arts",
+ "added": "2026-10-17",
+ "rank": 167,
+ "total": 337,
+ "nearby": [
+  {
+   "code": "DOOWON",
+   "campus": "두원공과대학교 안성캠퍼스",
+   "km": 5.7
+  },
+  {
+   "code": "HKNU",
+   "campus": "한경국립대학교 안성캠퍼스",
+   "km": 10.0
+  },
+  {
+   "code": "CAU-DAVINCI",
+   "campus": "중앙대학교 다빈치캠퍼스",
+   "km": 12.9
+  },
+  {
+   "code": "CHUNGKANG",
+   "campus": "청강문화산업대학교",
+   "km": 16.4
+  },
+  {
+   "code": "PTU",
+   "campus": "평택대학교",
+   "km": 21.2
+  }
+ ]
+}
